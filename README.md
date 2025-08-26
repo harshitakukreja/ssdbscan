@@ -1,6 +1,6 @@
 # Semi Supervised DBSCAN
 
-This repository contains a Python implementation of the paper:
+This repository implements a Semi Supervised version of DBSCAN clustering algorithm in Python from the paper:
 > [Semi-supervised Density-Based Clustering. _Levi Lelis and Jorg Sander. IEEE International Conference on Data Mining 2009_](https://webdocs.cs.ualberta.ca/~santanad/papers/2009/lelisS09.pdf)
 
 <!-- Tell something about what this code does --> 
