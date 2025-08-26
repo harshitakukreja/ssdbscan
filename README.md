@@ -6,7 +6,7 @@ This repository implements a Semi Supervised version of DBSCAN clustering algori
 <!-- Tell something about what this code does --> 
 
 ## Usage
-
+API usage is the same as of scikit-learn clustering algorithms.
 ### Example Usage
     >>> from ss_clustering import SSDBSCAN
     >>> import numpy as np
